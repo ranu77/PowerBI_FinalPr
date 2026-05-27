@@ -48,13 +48,13 @@ Features:
 Features:
 - Customer Segmentation
 - Top Customers by Profit
-- Matrix Analysis
+- Total Sales By Segment
 
 ### 4. Order Drillthrough
 Features:
 - Customer-order insights
 - Product purchase trends
-- Detailed drillthrough analysis
+- Customer Sales Trend
 
 ---
 
@@ -74,7 +74,8 @@ Features:
 
 ## Visualizations Used
 
-- Cards / KPI Cards
+- Shapes
+- Cards
 - Line Charts
 - Bar Charts
 - Donut Charts
